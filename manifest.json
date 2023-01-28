@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "ChromePalette",
+  "version": "1.0",
+  "description": "Introducing the ultimate color picker for all your web design needs! Our Chrome extension, ChromePalette, makes it easy to find the perfect color for your project with its user-friendly interface and advanced color selection tools. With ChromePalette, you can easily pick colors from web pages, images, and even your own uploaded files. It also includes a color history feature so you can keep track of all your favorite colors. Plus, you can easily adjust and edit colors to find the perfect shade. ChromePalette is a must-have for any web designer, developer, or artist. Get it now and elevate your color game!",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
