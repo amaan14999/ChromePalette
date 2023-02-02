@@ -10,9 +10,9 @@ Introducing the ultimate color picker for all your web design needs! My Chrome e
 
 
 
-## Deployment
+## Installation
 
-To deploy this project, download and extract this repository
+To install this project, download and extract this repository
 
 ```
 1. Open "Manage extension" in Google Chrome
