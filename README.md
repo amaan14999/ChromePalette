@@ -25,7 +25,7 @@ To install this project, download and extract this repository
 
 ## License
 
-Copyright (c) 2023 ChromePalette
+Copyright (c) 2023 Amaan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
